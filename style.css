@@ -1,0 +1,40 @@
+img {
+    border: solid #00ffff 5px;
+    
+    
+}
+
+
+
+.header{
+  background-image: url("Back.jpg");
+    text-align: center;
+    color:#ffffff;
+    
+    
+    height: 500px;
+    
+}
+
+.menu{
+    text-align: center;
+   
+    
+}
+
+.item {
+    border-color:#00ffff;
+    border-style:solid;
+   border-radius: 3mm;
+   border-width: 10px;
+  width: 300px;
+   text-align: center;
+    background-color:#7fffd4;    ;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
